@@ -145,3 +145,10 @@
   .edit-icon {
     color: #fff;
   }
+
+  .todo-text{
+    cursor: pointer;
+  }
+  .todo-handle{
+    cursor: grab;
+  }
